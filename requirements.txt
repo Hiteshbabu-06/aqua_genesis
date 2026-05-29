@@ -5,6 +5,4 @@ numpy
 matplotlib
 scikit-learn
 xgboost
-tensorflow
-plotly
-streamlit-lottie
+tensorflow==2.15.0
