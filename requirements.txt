@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-xgboost==3.0.1
+xgboost
 plotly
-tensorflow==2.21.0
+tensorflow
